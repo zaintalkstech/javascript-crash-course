@@ -1,0 +1,44 @@
+Hey there, here are the notes. Enjoy! :)
+
+--------------------------------------------------------------------
+
+WHAT IS JAVASCRIPT?
+
+JavaScript is a multi-paradigm, high-level and object-oriented programming language.
+
+--------------------------------------------------------------------
+
+DEFINITIONS:
+
+High-level: Complex stuff is automatically taken care of by JavaScript, for example: memory management.
+
+Multi-paradigm: We can code with JavaScript using many different programming styles.
+
+Object-oriented: JavaScript mainly uses objects (more on objects later on in the crash course) to store data.
+
+--------------------------------------------------------------------
+
+Comments are notes for other programmers or for yourself if you want to know what a line of code does.
+
+Multi lines comment syntax: /* comment */
+
+Single line comment syntax: // comment
+
+--------------------------------------------------------------------
+
+Just to recap from the video:
+
+The alert function displays a pop-up window that can be dismissed.
+
+The syntax for alert is: alert("string");
+
+--------------------------------------------------------------------
+
+Like and subscribe, and make sure to comment any concerns/feedback in the comment section below.
+
+--------------------------------------------------------------------
+
+Happy Coding! :D 
+
+
+- Zain
